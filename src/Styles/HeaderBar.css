@@ -1,0 +1,8 @@
+.HeaderBar{
+    height: 10%;
+    background-color: rgb(227, 116, 116);
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
